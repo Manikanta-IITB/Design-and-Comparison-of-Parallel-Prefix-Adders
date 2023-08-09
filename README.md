@@ -1,4 +1,4 @@
-# Design-and-Comparison-of-Parallel-Prefix-Adders
+# Design and Comparison of Parallel Prefix Adders
 This project shows the design and comparison of various 16-bit parallel prefix adders. The adders designed are
 1) Brent Kung Adder
 2) Kogge Stone Adder
